@@ -1,0 +1,7 @@
+To create DMGR profile 
+
+./manageprofiles.sh -create -profileName Dmgr -profilePath /opt/IBM/WebSphere/AppServer/profiles/Dmgr -templatePath /opt/IBM/WebSphere/AppServer/profileTemplates/dmgr/ -cellName Dmgrcell -nodeName Dmgrnode -hostname localhost -sP
+
+To create Appsr profile 
+
+./manageprofiles.sh -create -profileName Appsr0 -profilePath /opt/IBM/WebSphere/AppServer/profiles/Appsr0 -templatePath /opt/IBM/WebSphere/AppServer/profileTemplates/default/ -cellName Appsr0cell -nodeName Appsr0node -hostname localhost -sP

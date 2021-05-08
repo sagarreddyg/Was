@@ -1,0 +1,5 @@
+IHS installation
+
+./imcl install com.ibm.websphere.IHSILAN.v85 -repositories /home/sagar/IHS/IHS_Extracted/repository.config -installationDirectory /opt/IBM/IHS/ -acceptLicense -properties user.ihs.httpPort=80 -sP
+
+

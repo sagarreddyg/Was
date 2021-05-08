@@ -1,0 +1,18 @@
+to view Port numbers open serverindex.xml file in below path.
+
+/opt/IBM/WebSphere/AppServer/profiles/Dmgr/config/cells/Dmgrcell/nodes/Dmgrnode/serverindex.xml
+
+
+to do Fedaration follow the steps.
+1. go to Appserver profile or custom profile location and go to bin.
+2. run the following command.
+./addNode.sh <DMGR host name> <SOAP connector port number>
+
+
+
+After fedaration goto admin console.
+1. under System Adminstration goto nodeAgent stop the node agent
+2. in terminal goto profile bin directory run ./startNode.sh
+
+
+
