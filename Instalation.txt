@@ -1,0 +1,16 @@
+to install IIM please run the command under tools folder.
+
+./imcl install com.ibm.cic.agent -repositories /path to IIM reposirory.config -aaceptLicense -sP
+
+
+to show the available packegaes run the following command
+
+./imcl listAvailablePackages -repositories /path to WAS repository.config 
+
+to install WAS run the following command
+./imcl install AvailablePackage name -repositories /path to WAS repository.config -aaceptLicense -sP
+
+
+To know all installed Packages run the following command.
+
+./imcl listInstalledPackages

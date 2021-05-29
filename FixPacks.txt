@@ -1,0 +1,4 @@
+1. to check present verssion of WAS: go to Was root directory under bin you will see 
+vesioninfo.sh file just run that script to get the details.
+
+2. 

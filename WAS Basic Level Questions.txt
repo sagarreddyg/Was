@@ -1,0 +1,33 @@
+1. Brief me about yourself
+2. Roles and Responsibilities
+3. Daily Activities
+4. Installation procedure of WAS 7 or WAS 8 (GUI, Silent)
+5. Pre-requesets before Installation of Product. (and OS level pre-requesets)
+6. User and group creation.
+7. Commands for Installations, how u confirm installation is completed or not
+8. How do you install Fixpacks (GUI, Silent)
+9. What is the information available in the Response file
+10. What are different Profiles in WAS, Differences between WAS 7 & WAS 8
+11. Definations of all Profiles, What is Node, Node agent
+12. Difference between Managed node, Unmanaged node
+13. After installation what are the basic configurations we have to perform
+14. What is Federation, explain Federation process (GUI, Commands), Default port numbers, backend steps at the time of federation
+*15. What are the basic Sever Configurations (like Jvm Heap)
+*16. What is Heap, Min, Max, Verbose Garbage Collector
+*17. Different Logs in WAS, what is the information available in those Logs
+18. Configurations of IHS, Plugin
+19. What is there in httpd.conf and plugin-cfg.xml 
+20. Explain the Request flow
+*21. How u configure the Data Source, how App server is communicating with Data sorce
+22. Application Deployments
+23. How u deploying applications in Prod Environment
+*24. Cluster creation, different clusters
+*25. Node Sync, how it works
+*26. Monitoring tool
+27. Daily using Linux commands
+*28. What is recent issue u faced, explain how u resolved the issue
+29. Different Http codes
+*30. Connection pool properties
+*31. What is Thread dump & Heap dump
+32. Can u brief me about ur current Environment setup (like how many App servers, Web servers, nodes, dmgr, cluster members and applications)
+33. They will ask about some scenario questions

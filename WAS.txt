@@ -1,0 +1,7 @@
+LDAP :-   Admin console->Security->Global Security->Security configuration Wizard->standalone LDAP Registry 
+
+Thread pool configure :- Admin console-> servers -> server type -> WebSphere Application server-> server name-> additional properties->Thread pools
+
+Heep size configuration -> Admin console-> servers -> server type -> WebSphere Application server-> server name-> ServerInfrastructure-> Java and Process management 
+->Process Definition -> Java Virtual machine-> initial heap or max heap
+
